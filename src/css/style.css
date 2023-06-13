@@ -81,7 +81,7 @@ footer {
 
 
 
-.logos p {
+.footer--left p {
     
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
@@ -90,7 +90,6 @@ footer {
     margin-right: 50px;
     margin-top: 90px;
     margin-bottom: 80px;
-
 
 }
 
@@ -104,29 +103,30 @@ footer {
 
 }
 
-footer .logos .logotube {
+.footer--right .logo1 {
     
     margin-top: 53px;
     margin-bottom: 66px;
 
 }
 
-footer .logos .logoinsta {
+.footer--right .logo2 {
 
     
     margin-top: 63px;
     margin-bottom: 72px;
-    margin-left: 16px;
+    margin-left: 25px;
 
 
 }
 
-footer .logos .logodisney {
+.footer--right .logo3 {
     
-    margin-top: 30px;
+    margin-bottom: 50px;
     margin-right: 47px;
-    margin-left: 28px
+    margin-left: 50px
 }
+
 
 
 
