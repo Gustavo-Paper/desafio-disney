@@ -98,6 +98,7 @@ footer {
 
 .logos {
     display: flex;
+    justify-content:center;
     height:197px;
     margin-top: 80px;
     text-align: end;
