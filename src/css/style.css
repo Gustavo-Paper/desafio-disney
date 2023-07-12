@@ -55,7 +55,7 @@ li a:hover {
 
 
 main {
-  
+    display:inline-block;
     text-align: center;
 
 }
